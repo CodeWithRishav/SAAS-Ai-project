@@ -69,4 +69,13 @@ In future iterations, consider implementing additional AI models, enhancing user
 
 Find additional information, configuration details, and code snippets in the project's [Appendix](/docs/appendix.md).
 
+##Contributing
+If you'd like to contribute, please fork the repository and create a pull request. Open an issue for discussions or feature requests.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##Acknowledgments
+Mention any libraries, frameworks, or resources you used or were inspired by
+
 Feel free to contribute, report issues, and provide feedback. Happy coding!
